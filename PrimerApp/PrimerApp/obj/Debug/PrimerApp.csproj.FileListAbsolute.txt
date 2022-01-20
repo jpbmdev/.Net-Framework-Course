@@ -1,0 +1,8 @@
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\PrimerApp\PrimerApp\bin\Debug\PrimerApp.exe.config
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\PrimerApp\PrimerApp\bin\Debug\PrimerApp.exe
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\PrimerApp\PrimerApp\bin\Debug\PrimerApp.pdb
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\PrimerApp\PrimerApp\obj\Debug\PrimerApp.csproj.AssemblyReference.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\PrimerApp\PrimerApp\obj\Debug\PrimerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\PrimerApp\PrimerApp\obj\Debug\PrimerApp.csproj.CoreCompileInputs.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\PrimerApp\PrimerApp\obj\Debug\PrimerApp.exe
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\PrimerApp\PrimerApp\obj\Debug\PrimerApp.pdb

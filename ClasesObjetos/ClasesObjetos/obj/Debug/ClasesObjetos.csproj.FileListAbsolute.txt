@@ -1,0 +1,8 @@
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.csproj.AssemblyReference.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.csproj.CoreCompileInputs.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.exe.config
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.exe
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.pdb
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.exe
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.pdb

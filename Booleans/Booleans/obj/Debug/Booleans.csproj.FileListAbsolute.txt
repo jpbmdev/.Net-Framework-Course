@@ -1,0 +1,8 @@
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\Booleans\Booleans\bin\Debug\Booleans.exe.config
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\Booleans\Booleans\bin\Debug\Booleans.exe
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\Booleans\Booleans\bin\Debug\Booleans.pdb
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\Booleans\Booleans\obj\Debug\Booleans.csproj.AssemblyReference.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\Booleans\Booleans\obj\Debug\Booleans.csproj.SuggestedBindingRedirects.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\Booleans\Booleans\obj\Debug\Booleans.csproj.CoreCompileInputs.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\Booleans\Booleans\obj\Debug\Booleans.exe
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\Booleans\Booleans\obj\Debug\Booleans.pdb

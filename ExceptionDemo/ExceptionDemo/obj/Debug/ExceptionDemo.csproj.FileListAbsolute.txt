@@ -1,0 +1,8 @@
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.AssemblyReference.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.pdb

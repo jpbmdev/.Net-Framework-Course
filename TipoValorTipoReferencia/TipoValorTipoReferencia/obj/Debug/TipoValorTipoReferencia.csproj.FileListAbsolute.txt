@@ -1,0 +1,8 @@
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\TipoValorTipoReferencia\TipoValorTipoReferencia\obj\Debug\TipoValorTipoReferencia.csproj.AssemblyReference.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\TipoValorTipoReferencia\TipoValorTipoReferencia\obj\Debug\TipoValorTipoReferencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\TipoValorTipoReferencia\TipoValorTipoReferencia\obj\Debug\TipoValorTipoReferencia.csproj.CoreCompileInputs.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\TipoValorTipoReferencia\TipoValorTipoReferencia\bin\Debug\TipoValorTipoReferencia.exe.config
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\TipoValorTipoReferencia\TipoValorTipoReferencia\bin\Debug\TipoValorTipoReferencia.exe
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\TipoValorTipoReferencia\TipoValorTipoReferencia\bin\Debug\TipoValorTipoReferencia.pdb
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\TipoValorTipoReferencia\TipoValorTipoReferencia\obj\Debug\TipoValorTipoReferencia.exe
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\TipoValorTipoReferencia\TipoValorTipoReferencia\obj\Debug\TipoValorTipoReferencia.pdb

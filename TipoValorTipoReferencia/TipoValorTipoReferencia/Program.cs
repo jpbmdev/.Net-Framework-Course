@@ -89,6 +89,67 @@ namespace TipoValorTipoReferencia
 
             Circulo circulo1 = new Circulo(2);
 
+            //Boxing
+
+            int valor = 50;
+            object miObjeto = valor;
+            int otroValor = (int)miObjeto;
+
+            Console.WriteLine(otroValor);
+
+            //Operator is
+
+            /*
+            if(miObjeto is int)
+            {
+                Console.WriteLine(miObjeto);
+            }
+            else if(miObjeto is string)
+            {
+                Console.WriteLine(miObjeto);
+            }else if(miObjeto is Circulo)
+            {
+                Circulo circulos = (Circulo)miObjeto;
+                Console.WriteLine(circulos.radio);
+            }
+            */
+
+            /*
+            int valor1 = 50;
+            object objeto = valor1;
+            int? valor2 = objeto as int?;
+            */
+
+            /*
+            //Usanto el GetType()
+
+            Persona Mary = new Persona("Mary", 20);
+
+            Console.WriteLine(Mary.GetType());
+            Console.WriteLine(Mary.GetType().BaseType);
+
+            //Usanto el ToString()
+
+            Console.WriteLine(Mary.ToString());
+
+            //Usando Equals
+
+            Persona Juan = new Persona("Juan", 26);
+
+            if (Mary.Equals(Juan)) Console.WriteLine(true);
+            */
+
+            object miObjeto2 = "Hola 56";
+
+            string valor2 = miObjeto2 as string;
+
+            if (valor2 != null)
+            {
+                Console.WriteLine("Esto es un string: " + valor);
+            }
+
+
+
             Console.ReadLine();
         }
 

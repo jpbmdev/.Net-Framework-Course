@@ -1,0 +1,8 @@
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\Enums\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\Enums\Enums\obj\Debug\Enums.csproj.SuggestedBindingRedirects.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\Enums\Enums\obj\Debug\Enums.pdb

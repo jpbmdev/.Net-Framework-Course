@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{75BB02E4-6F6C-4A8F-B261-878238454795}</ProjectGuid>
+    <ProjectGuid>{E752F06C-6A38-403F-8F1C-2E3B515B979E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TipoValorTipoReferencia</RootNamespace>
-    <AssemblyName>TipoValorTipoReferencia</AssemblyName>
+    <RootNamespace>Enums</RootNamespace>
+    <AssemblyName>Enums</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Circulo.cs" />
-    <Compile Include="Persona.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rol.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

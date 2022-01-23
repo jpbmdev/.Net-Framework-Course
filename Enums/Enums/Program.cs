@@ -20,6 +20,15 @@ namespace Enums
                 Console.WriteLine(Rol.Administrador);
             }
 
+            Rol2 tipoUsuario2 = Rol2.Desarrollador;
+
+            int value = (int)tipoUsuario2;
+
+            Console.WriteLine(value);
+
+            Array values = Enum.GetValues(typeof(Rol2));
+            Console.WriteLine(values);
+
             Console.ReadLine();
         }
 

@@ -1,0 +1,11 @@
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\UseExternalPackage\UseExternalPackage\bin\Debug\UseExternalPackage.exe.config
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\UseExternalPackage\UseExternalPackage\bin\Debug\UseExternalPackage.exe
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\UseExternalPackage\UseExternalPackage\bin\Debug\UseExternalPackage.pdb
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\UseExternalPackage\UseExternalPackage\bin\Debug\EstudentPackage.dll
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\UseExternalPackage\UseExternalPackage\bin\Debug\EstudentPackage.pdb
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\UseExternalPackage\UseExternalPackage\obj\Debug\UseExternalPackage.csproj.AssemblyReference.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\UseExternalPackage\UseExternalPackage\obj\Debug\UseExternalPackage.csproj.SuggestedBindingRedirects.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\UseExternalPackage\UseExternalPackage\obj\Debug\UseExternalPackage.csproj.CoreCompileInputs.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\UseExternalPackage\UseExternalPackage\obj\Debug\UseExternalPackage.csproj.CopyComplete
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\UseExternalPackage\UseExternalPackage\obj\Debug\UseExternalPackage.exe
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\UseExternalPackage\UseExternalPackage\obj\Debug\UseExternalPackage.pdb

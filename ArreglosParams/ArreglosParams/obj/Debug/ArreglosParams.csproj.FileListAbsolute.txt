@@ -1,0 +1,8 @@
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ArreglosParams\ArreglosParams\bin\Debug\ArreglosParams.exe.config
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ArreglosParams\ArreglosParams\bin\Debug\ArreglosParams.exe
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ArreglosParams\ArreglosParams\bin\Debug\ArreglosParams.pdb
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ArreglosParams\ArreglosParams\obj\Debug\ArreglosParams.csproj.SuggestedBindingRedirects.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ArreglosParams\ArreglosParams\obj\Debug\ArreglosParams.csproj.CoreCompileInputs.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ArreglosParams\ArreglosParams\obj\Debug\ArreglosParams.exe
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ArreglosParams\ArreglosParams\obj\Debug\ArreglosParams.pdb
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\ArreglosParams\ArreglosParams\obj\Debug\ArreglosParams.csproj.AssemblyReference.cache

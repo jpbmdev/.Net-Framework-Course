@@ -1,0 +1,6 @@
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\EstudentPackage\EstudentPackage\bin\Debug\EstudentPackage.dll
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\EstudentPackage\EstudentPackage\bin\Debug\EstudentPackage.pdb
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\EstudentPackage\EstudentPackage\obj\Debug\EstudentPackage.csproj.AssemblyReference.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\EstudentPackage\EstudentPackage\obj\Debug\EstudentPackage.csproj.CoreCompileInputs.cache
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\EstudentPackage\EstudentPackage\obj\Debug\EstudentPackage.dll
+C:\Users\j.etancourt.maldonad\OneDrive - Accenture\Documents\.Net Framework Course\EstudentPackage\EstudentPackage\obj\Debug\EstudentPackage.pdb

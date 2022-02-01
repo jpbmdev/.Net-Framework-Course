@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "788fa405-b572-41a5-ba25-86392b1fb17e": {
+      "ProjectGuid": "788fa405-b572-41a5-ba25-86392b1fb17e",
+      "DisplayName": "WSPerson",
+      "ColorIndex": 0
+    },
+    "b8df841f-c07e-4697-abb7-8c3b3e7e3c1c": {
+      "ProjectGuid": "b8df841f-c07e-4697-abb7-8c3b3e7e3c1c",
+      "DisplayName": "ClientePersona",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

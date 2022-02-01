@@ -1,0 +1,7 @@
+D:\Work\Accenture\.Net-Framework-Course\Services\WSPerson\bin\WSPerson.dll.config
+D:\Work\Accenture\.Net-Framework-Course\Services\WSPerson\bin\WSPerson.dll
+D:\Work\Accenture\.Net-Framework-Course\Services\WSPerson\bin\WSPerson.pdb
+D:\Work\Accenture\.Net-Framework-Course\Services\WSPerson\obj\Debug\WSPerson.csproj.AssemblyReference.cache
+D:\Work\Accenture\.Net-Framework-Course\Services\WSPerson\obj\Debug\WSPerson.csproj.CoreCompileInputs.cache
+D:\Work\Accenture\.Net-Framework-Course\Services\WSPerson\obj\Debug\WSPerson.dll
+D:\Work\Accenture\.Net-Framework-Course\Services\WSPerson\obj\Debug\WSPerson.pdb

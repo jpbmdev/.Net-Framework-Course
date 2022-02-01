@@ -1,0 +1,11 @@
+D:\Work\Accenture\.Net-Framework-Course\Services\ClientePersona\bin\Debug\ClientePersona.exe.config
+D:\Work\Accenture\.Net-Framework-Course\Services\ClientePersona\bin\Debug\ClientePersona.exe
+D:\Work\Accenture\.Net-Framework-Course\Services\ClientePersona\bin\Debug\ClientePersona.pdb
+D:\Work\Accenture\.Net-Framework-Course\Services\ClientePersona\obj\Debug\ClientePersona.csproj.AssemblyReference.cache
+D:\Work\Accenture\.Net-Framework-Course\Services\ClientePersona\obj\Debug\ClientePersona.csproj.SuggestedBindingRedirects.cache
+D:\Work\Accenture\.Net-Framework-Course\Services\ClientePersona\obj\Debug\ClientePersona.Form1.resources
+D:\Work\Accenture\.Net-Framework-Course\Services\ClientePersona\obj\Debug\ClientePersona.Properties.Resources.resources
+D:\Work\Accenture\.Net-Framework-Course\Services\ClientePersona\obj\Debug\ClientePersona.csproj.GenerateResource.cache
+D:\Work\Accenture\.Net-Framework-Course\Services\ClientePersona\obj\Debug\ClientePersona.csproj.CoreCompileInputs.cache
+D:\Work\Accenture\.Net-Framework-Course\Services\ClientePersona\obj\Debug\ClientePersona.exe
+D:\Work\Accenture\.Net-Framework-Course\Services\ClientePersona\obj\Debug\ClientePersona.pdb

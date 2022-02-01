@@ -1,0 +1,8 @@
+D:\Work\Accenture\.Net-Framework-Course\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\Work\Accenture\.Net-Framework-Course\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\Work\Accenture\.Net-Framework-Course\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\Work\Accenture\.Net-Framework-Course\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\Work\Accenture\.Net-Framework-Course\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+D:\Work\Accenture\.Net-Framework-Course\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\Work\Accenture\.Net-Framework-Course\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\Work\Accenture\.Net-Framework-Course\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

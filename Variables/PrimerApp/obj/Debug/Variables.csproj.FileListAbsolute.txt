@@ -1,0 +1,8 @@
+D:\Work\Accenture\.Net-Framework-Course\Variables\PrimerApp\bin\Debug\PrimerApp.exe.config
+D:\Work\Accenture\.Net-Framework-Course\Variables\PrimerApp\bin\Debug\PrimerApp.exe
+D:\Work\Accenture\.Net-Framework-Course\Variables\PrimerApp\bin\Debug\PrimerApp.pdb
+D:\Work\Accenture\.Net-Framework-Course\Variables\PrimerApp\obj\Debug\Variables.csproj.AssemblyReference.cache
+D:\Work\Accenture\.Net-Framework-Course\Variables\PrimerApp\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+D:\Work\Accenture\.Net-Framework-Course\Variables\PrimerApp\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+D:\Work\Accenture\.Net-Framework-Course\Variables\PrimerApp\obj\Debug\PrimerApp.exe
+D:\Work\Accenture\.Net-Framework-Course\Variables\PrimerApp\obj\Debug\PrimerApp.pdb

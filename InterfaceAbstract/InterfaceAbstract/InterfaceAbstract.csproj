@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9D889737-505C-4CB1-8660-C8D1DAF39D5D}</ProjectGuid>
+    <ProjectGuid>{36914193-583C-4329-AC9E-CA6741CFCED6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>InterfaceAbstract</RootNamespace>
     <AssemblyName>InterfaceAbstract</AssemblyName>
@@ -43,8 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Circulo.cs" />
+    <Compile Include="Cuadrado.cs" />
+    <Compile Include="FiguraBase.cs" />
+    <Compile Include="ICalculador.cs" />
+    <Compile Include="IFigura.cs" />
+    <Compile Include="IRenderizador.cs" />
+    <Compile Include="Linea.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SealedClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

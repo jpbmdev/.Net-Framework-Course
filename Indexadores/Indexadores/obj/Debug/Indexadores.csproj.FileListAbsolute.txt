@@ -1,0 +1,8 @@
+D:\Work\Accenture\.Net-Framework-Course\Indexadores\Indexadores\bin\Debug\Indexadores.exe.config
+D:\Work\Accenture\.Net-Framework-Course\Indexadores\Indexadores\bin\Debug\Indexadores.exe
+D:\Work\Accenture\.Net-Framework-Course\Indexadores\Indexadores\bin\Debug\Indexadores.pdb
+D:\Work\Accenture\.Net-Framework-Course\Indexadores\Indexadores\obj\Debug\Indexadores.csproj.AssemblyReference.cache
+D:\Work\Accenture\.Net-Framework-Course\Indexadores\Indexadores\obj\Debug\Indexadores.csproj.SuggestedBindingRedirects.cache
+D:\Work\Accenture\.Net-Framework-Course\Indexadores\Indexadores\obj\Debug\Indexadores.csproj.CoreCompileInputs.cache
+D:\Work\Accenture\.Net-Framework-Course\Indexadores\Indexadores\obj\Debug\Indexadores.exe
+D:\Work\Accenture\.Net-Framework-Course\Indexadores\Indexadores\obj\Debug\Indexadores.pdb

@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace InterfaceAbstract
 {
-    internal class Figura
+    interface IFigura: ICalculador
     {
+        int Calcular(int x, int y);
+
+        void Dibujar();
     }
 }

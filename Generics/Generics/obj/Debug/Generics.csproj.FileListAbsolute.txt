@@ -1,0 +1,8 @@
+D:\Work\Accenture\.Net-Framework-Course\Generics\Generics\bin\Debug\Generics.exe.config
+D:\Work\Accenture\.Net-Framework-Course\Generics\Generics\bin\Debug\Generics.exe
+D:\Work\Accenture\.Net-Framework-Course\Generics\Generics\bin\Debug\Generics.pdb
+D:\Work\Accenture\.Net-Framework-Course\Generics\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+D:\Work\Accenture\.Net-Framework-Course\Generics\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+D:\Work\Accenture\.Net-Framework-Course\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+D:\Work\Accenture\.Net-Framework-Course\Generics\Generics\obj\Debug\Generics.exe
+D:\Work\Accenture\.Net-Framework-Course\Generics\Generics\obj\Debug\Generics.pdb
